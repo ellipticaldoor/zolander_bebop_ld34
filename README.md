@@ -7,10 +7,13 @@ Good luck!! :D
 ### Credits 
 
 Daniel Blanco - @danielblanco3d 
+
 Celestino Gianotti - @CeleGianotti 
+
 Miguel Dorta - @ellipticaldoor 
 
-Music was taken from http://incompetech.com/ 
+
+Music was taken from [Incompetech](http://incompetech.com/)
 
 **LD Theme:** Two Buttons
 
