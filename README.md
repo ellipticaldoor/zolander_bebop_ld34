@@ -2,15 +2,13 @@
 
 Welcome to new the adventure of the space adventurer that can't turn to the left!
 
-Good luck!! :D 
+Good luck!! :D
 
-### Credits 
+## Credits
 
-Daniel Blanco - @danielblanco3d 
-
-Celestino Gianotti - @CeleGianotti 
-
-Miguel Dorta - @ellipticaldoor 
+* Daniel Blanco - @danielblanco3d
+* Celestino Gianotti - @CeleGianotti
+* Miguel Dorta - @ellipticaldoor
 
 
 Music was taken from [Incompetech](http://incompetech.com/)
