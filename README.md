@@ -6,12 +6,11 @@ Good luck!! :D
 
 ## Credits
 
-* Daniel Blanco - @danielblanco3d
-* Celestino Gianotti - @CeleGianotti
-* Miguel Dorta - @ellipticaldoor
+* Daniel Blanco - [@danielblanco3d](https://twitter.com/danielblanco3d)
+* Celestino Gianotti - [@CeleGianotti](https://twitter.com/CeleGianotti)
+* Miguel Dorta - [@ellipticaldoor](https://twitter.com/ellipticaldoor)
+* Music was taken from [Incompetech](http://incompetech.com/)
 
-
-Music was taken from [Incompetech](http://incompetech.com/)
 
 **LD Theme:** Two Buttons
 
